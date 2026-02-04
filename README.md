@@ -1,0 +1,1 @@
+# DATOS_STC_PROYECTO_Detecci-n-de-S-ndrome-de-T-nel-Carpiano-utilizando-sensores-EMG
